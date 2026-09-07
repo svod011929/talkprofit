@@ -6,49 +6,25 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/readme-meta.svg" width="100%" alt="meta" />
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/svod011929/talkprofit"><img src="https://img.shields.io/badge/GitHub-talkprofit-0D1117?style=for-the-badge&logo=github&logoColor=34D399" alt="repo" /></a>
-  &nbsp;
   <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
-  &nbsp;
   <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
 </p>
 
----
-
-<div align="center">
-  <img src="./assets/readme-about.svg" width="100%" alt="about" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/readme-features.svg" width="100%" alt="features" />
-</div>
-
----
-
-## Быстрый старт
-
-```bash
-git clone https://github.com/svod011929/talkprofit.git
-cd talkprofit
-# см. файлы проекта и продолжай установку под своё окружение
-```
-
----
-
-<div align="center">
-  <img src="./assets/readme-stack.svg" width="100%" alt="stack" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://t.me/KodoDrive"><img src="./assets/readme-cta.svg" width="100%" alt="contact" /></a>
-</div>
-
 <!-- /kododrive-readme-style -->
+
+# talkprofit
+
+Полнофункциональный Telegram-бот TalkProfit.
+
+Автор: [KodoDrive](https://github.com/svod011929)
 
 ---
 
@@ -56,21 +32,21 @@ cd talkprofit
 
 ## Проекты KodoDrive
 
-Другие проекты: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/KodoDrive)
+Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/KodoDrive)
 
 ### VPN и инфраструктура
 
-- [BuryatVPN](https://github.com/svod011929/buryatvpn)
-- [VPN Server Installer](https://github.com/svod011929/vpn-server-installer)
+- [BuryatVPN — VPN-сервис + Telegram](https://github.com/svod011929/buryatvpn)
+- [VPN Server Installer — VLESS + TLS](https://github.com/svod011929/vpn-server-installer)
 - [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
-- [AWG Bot Installer](https://github.com/svod011929/awg-bot-installer)
+- [AWG Bot Installer — AmneziaWG](https://github.com/svod011929/awg-bot-installer)
 - [RemnaShop Installer](https://github.com/svod011929/remnashop-installer)
-- [VPN Auto Installer](https://github.com/svod011929/vpn-auto-installer)
-- [VPNHubBot](https://github.com/svod011929/VPNHubBot)
+- [VPN Auto Installer — панели](https://github.com/svod011929/vpn-auto-installer)
+- [VPNHubBot — Telegram VPN-бот](https://github.com/svod011929/VPNHubBot)
 
 ### Telegram и автоматизация
 
-- [KDS Server Panel](https://github.com/svod011929/KDS_Server_Panel)
+- [KDS Server Panel — SSH из Telegram](https://github.com/svod011929/KDS_Server_Panel)
 - [Telegram → VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
 - [KDS Parser CryptoBot](https://github.com/svod011929/kds_parser_cryptobot)
 - [Auction Bot](https://github.com/svod011929/auction-bot)
@@ -86,8 +62,7 @@ cd talkprofit
 
 ### Сайты
 
-- [Portfolio](https://github.com/svod011929/kododrive-portfolio)
-- [GitHub Pages](https://github.com/svod011929/kododrive.github.io)
+- [KodoDrive Portfolio](https://github.com/svod011929/kododrive-portfolio)
+- [kododrive.github.io](https://github.com/svod011929/kododrive.github.io)
 
 <!-- /kododrive-projects-block -->
-
